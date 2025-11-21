@@ -198,6 +198,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
+## 📦 Deployment
+
+The application is deployed and available online. View the live app here:
+
+https://quantity-suggestions.streamlit.app/
+
+---
+
 ## 📧 Contact
 
 For questions or support, please open an issue in the GitHub repository or contact [namanjain34710@gmail.com]
