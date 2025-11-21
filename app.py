@@ -5,7 +5,7 @@ import os
 import altair as alt  # Added for better charts
 
 # ==========================================
-# 1. CONFIGURATION & SETUP
+# 1. CONFIGURATION & SETUPs
 # ==========================================
 st.set_page_config(
     page_title="Clothing Production AI",
